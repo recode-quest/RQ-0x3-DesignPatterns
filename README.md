@@ -23,3 +23,6 @@ This time you'll have to make use of any design pattern, depending on your skill
 ## SOLUTIONS
 
 Assuming you want to be listed here, you need to supply your solution until 20.03.2021 and comply with [regulations](https://github.com/recode-quest/REGULATIONS).
+
+* [appolock](https://github.com/appollock/RQ-0x3-DesignPatterns)
+* [Pyoneru](https://github.com/Pyoneru/RQ-0x3-DesignPatterns)
